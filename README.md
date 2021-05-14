@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I'm a full-stack software engineer, based on the Gold Coast, Australia 🇦🇺**
+
 <!--
 **Jinksi/Jinksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on: 🐠 Developing AI-based tools for environmental research & conservation (see [FishID](https://globalwetlandsproject.org/tools/fishid/))
+- 🌱 I’m currently learning: deploying computer-vision deep-learning products that scale, PyTorch & Lightning, React, API design, Prisma, the list will never end...
+- 👨‍💻 I use daily: `.js`, `.jsx`, `.py`, `(.module).css`, `.html`, `.md`
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: ☀️ coder by day, 🌙 music maker by night
