@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: 🐠 Developing AI-based tools for environmental research & conservation (see [FishID](https://globalwetlandsproject.org/tools/fishid/), [Global Coastal Wetlands Index App](https://glowdex.wetlands.app), [Mangrove Carbon App](https://mangrove-carbon.wetlands.app))
-- 🌱 I’m currently learning: deploying computer-vision deep-learning products that scale, React, API design, Next.js, Prisma, SLURM
+- 🔭 I’m currently working on: 🐠 Developing AI-based tools for environmental research & conservation, see:
+  - [FishID](https://globalwetlandsproject.org/tools/fishid/),
+  - [Global Coastal Wetlands Index App](https://glowdex.wetlands.app),
+  - [Mangrove Carbon App](https://mangrove-carbon.wetlands.app)
+- 🌱 I’m currently learning: deploying computer-vision deep-learning products that scale, TypeScript React, API design, Next.js, Prisma, SLURM
 - 👨‍💻 I use daily: `.js`, `.jsx`, `.py`, `(.module).css`, `.html`, `.md`
 - 😄 Pronouns: He/His
