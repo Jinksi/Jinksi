@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   - [Global Coastal Wetlands Index App](https://github.com/globalwetlands/glowdex-app)
   - [Mangrove Carbon App](https://github.com/globalwetlands/mangrove-carbon-app)
 - 🌱 I’m currently learning: deploying computer-vision deep-learning products that scale, TypeScript React, API design, Next.js, Prisma, SLURM
-- 👨‍💻 I use daily: `.js`, `.jsx`, `.py`, `(.module).css`, `.html`, `.md`
+- 👨‍💻 I use daily: `.js`, `.ts`, `.py`, `(.module).css`, `.html`, `.md`
 - 😄 Pronouns: He/His
