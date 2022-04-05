@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: WooCommerce @ [Automattic](https://automattic.com)!
 - Contributing to open-source when I can!
   - [mdn](https://github.com/mdn/content/pull/5079), [netlify-cms](https://github.com/netlify/netlify-cms/pulls?q=is%3Apr+author%3AJinksi+is%3Aclosed), [reduxjs](https://github.com/reduxjs/cra-template-redux/pull/3), [stackbit](https://github.com/stackbit/jamstackthemes/pull/30), [gatsbyjs](https://github.com/gatsbyjs/gatsby/pull/17602)
-- 🌱 I’m currently learning: TypeScript React, API design, Next.js, Prisma
-- 👨‍💻 I use daily: `.js`, `.ts`, `.py`, `(.module).css`, `.html`, `.md`
+- 🌱 I’m currently learning: TypeScript React
+- 👨‍💻 I use daily: `.js`, `.ts`, `.php`, `.py`, `(.module).css`, `.html`, `.md`
 - 😄 Pronouns: He/His
